@@ -19,7 +19,7 @@ sensitivity, specificity, and accuracy of fire detection. Our model showed a bet
 
 # Software Requirements:
 
-Operating System: Windows 7 , 8, 10 (64 bit)
+Operating System: Windows 7 , 8, 10 (64 bit) or Higher
 Software: Python 3.7
 Tools: Anaconda (Jupyter Note Book IDE)
 
