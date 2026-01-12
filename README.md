@@ -2,7 +2,7 @@
 ## Alternative Title to the tool
 Action recognition in movie scenes using deep feature technologies
 # Aim
-To efficient RCNN based system for fire detection in videos captured in uncertain surveillance scenarios
+To efficient RCNN based system for fire detection in videos captured in uncertain surveillance scenarios.
 # Synopsis:
 
 Vision based fire detection framework has lately picked up popularity when contrasted with customary fire recognition framework dependent on sensors. The need of video perception at private, Modern, business regions and woods areas has expanded the use of vision based fire acknowledgment system Recently lots of fire related accidents has occurred due to improper Surveillance or unable to cover those uncertain regions like restricted areas in forest or any factory buildings. In order to overcome such accidents , we propose a new method using Convolutional neural networks (RCNN).
